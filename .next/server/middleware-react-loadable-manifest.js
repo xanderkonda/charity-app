@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST='{"core/init.ts -> eruda":{"id":8138,"files":["static/chunks/463e7a84.c0e5dbd0bd43de0e.js","static/chunks/978.2abb0b7015dc93f7.js"]}}';

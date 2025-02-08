@@ -1,0 +1,1 @@
+"use strict";exports.id=672,exports.ids=[672],exports.modules={1486:e=>{e.exports=JSON.parse('{"i18n":{"header":"Application supports i18n","footer":"You can select a different language from the dropdown menu."}}')}};

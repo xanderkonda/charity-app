@@ -1,0 +1,9 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/init-data/page": "app/init-data/page.js",
+  "/launch-params/page": "app/launch-params/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/theme-params/page": "app/theme-params/page.js",
+  "/ton-connect/page": "app/ton-connect/page.js",
+  "/page": "app/page.js"
+}
