@@ -1,10 +1,18 @@
 {
   "functions": {
     "api/**": {
+<<<<<<< HEAD
       "includeFiles": "node_modules/telebot/plugins/**"
+=======
+      "includeFiles": "node_modules/charity-app/plugins/**"
+>>>>>>> e898182 (new2)
     }
   },
   "github": {
     "silent": true
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> e898182 (new2)
